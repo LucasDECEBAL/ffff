@@ -7,4 +7,6 @@ f
 - Pair Extraordinaire
 - YOLO
 - Quickdraw
+- Galaxy Brain
+- Open Sourcerer
 
